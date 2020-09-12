@@ -13,7 +13,7 @@
     "hapi-swagger": "^10.0.1",
     "toobusy-js": "^0.5.1",
     "marked": "^0.6.2",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.6.1"
   },
   "scripts": {
     "start": "node app.js",
